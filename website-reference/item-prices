@@ -1,0 +1,18 @@
+KEY
+
+threads
+item # - item name - item type - shop - price
+food
+item # - name - shop - location
+swag
+
+
+THREADS
+
+MR
+001 - M Cap - headwear - MR 1, 3, 4, SQ1F - 210
+002 - Yellow Tee - top - MR 2, 4, SQ1F - 390
+003 - Mowzy Tee (Red) - top - MR 1, 3, 4, SQ1F - 780
+004 - Mint Polo - top - MR 2, 3, 4, SQ2F - 1980
+005 - Runner's tank - top - MR 1, 3, SQ2F - 375
+006 - Mowzy Sweatshirt - top - MR 1, 2, 4, 
