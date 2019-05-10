@@ -3,16 +3,361 @@ KEY
 threads
 item # - item name - item type - shop - price
 food
-item # - name - shop - location
+item # - name - shop - sync boost
 swag
-
+item # - name - shop
 
 THREADS
 
-MR
+------------------MR-------------------
 001 - M Cap - headwear - MR 1, 3, 4, SQ1F - 210
 002 - Yellow Tee - top - MR 2, 4, SQ1F - 390
 003 - Mowzy Tee (Red) - top - MR 1, 3, 4, SQ1F - 780
 004 - Mint Polo - top - MR 2, 3, 4, SQ2F - 1980
 005 - Runner's tank - top - MR 1, 3, SQ2F - 375
-006 - Mowzy Sweatshirt - top - MR 1, 2, 4, 
+006 - Mowzy Sweatshirt - top - MR 1, 2, 4, SQ2F - 1980
+007 - Brown Baby Tee - top - MR 3, 4, SQ3F - 780
+008 - Pink Blouse - top - MR 1, 2, 3, SQ3F - 1980
+009 - Peach Turtleneck - top - MR 1, 2, 3, SQ3F - 780
+010 - Classic Jeans - bottom - MR 2, 3, 4 - 3990
+011 - Khaki Chinos - bottom - MR 1, 2 - 2985
+012 - Green Warm-ups - t&b - MR 2, 3 - 1290
+013 - Beach Sandals - footwear - MR 1, 2, 4 - 375
+014 - 3-for-1 Sock Pak - accessory - MR 1, 2, 4 - 570
+015 - Mowzy - accessory - MR 2, 3, 4 - 1500
+016 - Backpack - accessory - MR 1, 2, 3, - 1980
+017 - Canvas Tote - accessory - MR 1, 2, 4 - 990
+018 - Nylon Waist Pack - accessory - MR 1, 3 - 1095
+------------------DB-------------------
+019 - Stronger Cap - h - Molco - 6000
+020 - Star Cap - h - 104, Molco - 7800
+021 - Knit Casquette - h - Molco - 4800
+022 - Svelte Parka - t - 104, Molco - 9900
+023 - Denim Blouse - t - Molco - 1500
+024 - Cupid Tee - t - Molco - 4200
+025 - Satin Camisole - t - 104 - 4800
+026 - Vest-Blouse Combo - t - 104 - 11190
+027 - Leather Shorts - b - 104 - 9000
+028 - Skinny Jeans (Black) - b - 104, Molco - 13500
+029 - Denim Miniskirt - b - 104 - QUEST
+030 - Plaid Miniskirt - b - 104 - 8400
+031 - Knee-high Boots - f - 104, Molco - 15300
+032 - Cowboy Boots (red) - f - 104 - 28200
+033 - Purple Bikini - a - 104 - 8400
+034 - Black Bikini - a - 104 - QUEST
+035 - Studded Belt - a - Molco - 8400
+036 - D+B Ring - a - Molco - QUEST
+------------------TP-------------------
+037 - Biker Jacket - t - Molco - QUEST
+038 - Patchy Biker Jacket - t - Molco - QUEST
+039 - Cotton Biker Vest - t - Molco - 9600
+040 - Tiger Biker Vest - t - Molco - 64500
+041 - Fitted Coat - t - Molco - 27000
+042 - Tartan Coat - t - Molco - 19500
+043 - Pink Gauze Shirt - t - Molco - 6795
+044 - Grey Gauze Shirt - t - Molco - Molco - 6900
+045 - Black Raglan Tee - t - CC, Molco - 3990
+046 - Blue Raglan Tee - t - Molco - 3990
+047 - Bondage Pants (Black) - b - Molco - 9000
+048 - Skirt Bondage Combo - b - Molco - 15600
+049 - Bondage Half-pants - b - Molco - 5100
+050 - Work Boots - f - Molco - 19500
+051 - Purple Sneaks - f - Molco - 5100
+052 - Custom Sneaks - f - CC, Molco - 8400
+053 - White Rubbersoles - f - Molco - 15000
+054 - Double-spiked Cuff - a - Molco - 2400
+055 - Spiked Choker - a - Molco - 3600
+056 - Red Mohawk Set - a - Molco - 9000
+057 - Gold Padlock Necklace - a - Molco - 15300
+058 - Custom Waist Pack - a - Molco - 5160
+059 - Tiger Waist Pack - a - Molco - 7560
+------------------LA-------------------
+060 - Lace Bonnet - h - 3000
+061 - Ribbon Bonnet - h - 3000
+062 - Ribbon Mini-hat - h - 4200
+063 - Mini-crown - h - 5400
+064 - Goth Bondage Coat - t - QUEST
+065 - Asymmetric Jersey - t - 12390
+066 - Spiderweb Jersey - t - 16590
+067 - Bunny Parka - t - 14490
+068 - Shirt & Arm Warmers - t - 9240
+069 - Bondage Pants - b - 17640
+070 - Red Two-tier Skirt - b - 17630
+071 - Double-breasted Suit - tb - 30000
+072 - Lace-up Dress - tb - 19740
+073 - Ribbon-laced Dress - tb - QUEST
+074 - Vampire Dress - tb - 18690
+075 - Ribbon Shoes - f - 16800
+076 - Platform Shoes - f - 9900
+077 - Cape - a - 22800
+078 - Frilly Parasol - a - KuraKura - 4290
+079 - Blond Wig - a - 8190
+080 - M'sieur Lapin - a - 21000
+------------------DC-------------------
+081 - White Dragon - t - DC - 11400
+082 - Light and Shadow - t - DC - 9600
+083 - Yin Blazer - t - DC - 45000
+084 - Midnight Thoughts - t - DC - 4500
+085 - Plum Blossom - t - DC - 12000
+086 - Vernal Equinox - t - DC - 15000
+087 - Autumn Dragon - t - DC - 10500
+088 - Sun Emperor - tb - DC - QUEST
+089 - Dragon Lady - tb - DC - 54990
+090 - A Flash, A Spark - f - DC - 26790
+091 - One Man, No Equals - f - DC - 31890
+092 - Old Wisdom Made New - f - DC - QUEST
+093 - Typhoon - f - DC - 15600
+------------------HS-------------------
+094 - Dandy Hat - h - CC - 3900
+095 - Zephyr's Elegy - t - Edoga - 7800
+096 - Tree Leaf Serenade - t - le Grand - 7800
+097 - Dappled Light Waltz - t - le Grand - 5700
+098 - Zephyr's Sonata - t - CC - QUEST
+099 - North Wind Concerto - t - Edoga - 19800
+100 - Spring Breeze Rhapsody - t - le Grand - 12990
+101 - Sky Blue Paean - t - CC - 4800
+102 - High Sun Paean - t - CC - 24000
+103 - Sunflower - t - CC - 4800
+104 - Hydrangea - t - CC - 3000
+105 - Tulip - t - Edoga - 3600
+106 - Sunshine One-piece - t - CC - 7980
+107 - Flower One-piece - t - CC - 15000
+108 - Youth's March - b - Edoga - 9600
+109 - Young Folks - b - Edoga - 12900
+110 - When You're In Love - b - Edoga - QUEST
+111 - Love In A Heartbeat - b - CC - 12000
+112 - Let's Dance - f - KuraKura - 4200
+113 - Young American - f - Edoga - 4800
+114 - Funky Shades - a - KuraKura - 4890
+115 - Love & Peace - a - KuraKura - 9900
+116 - Slogan Bandannas - a - KuraKura - 990
+------------------PG-------------------
+117 - Cocktail Queen - tb - Bel Airplane, Pegaso - 309000
+118 - Regal Presence - tb - Pegaso - 246000
+119 - Tweed Gentleman - tb - Pegaso - 300000
+120 - Lavender Lotus - tb - Bel Airplane - 100500
+121 - Classic Half-boots - f - Bel Airplane, Pegaso - QUEST, 138000
+122 - Crimson Stilettos - f - Bel Airplane, Pegaso - QUEST, 90000
+123 - Silver Baron - a - Bel Airplane, Pegaso - 450000
+124 - Liberty Duke - a - Bel Airplane, Pegaso - QUEST, 1010550
+125 - Royal Splendor - a - Pegaso - QUEST
+126 - Revolution - a - Bel Airplane, Pegaso - 360000, QUEST
+127 - Sparkling Flight - a - Bel Airplane - 420000
+128 - Darling Lock - a - Bel Airplane - 240000
+------------------SH-------------------
+129 - Pitter Patter Plaid - t - SH - QUEST
+130 - Frilly Camisole - t - SH - 5400
+131 - Aqua Puffy Blouse - t - Edoga - 6390
+132 - Retro Dot One-Piece - t - SH - QUEST
+133 - Easy Breezy Dress - t - SH - 8790
+134 - Green With Envy - t - SH - 10995
+135 - Lemon Sherbert - t - SH - 3600
+136 - Mint Ice Cream - t - Edoga - 3600
+137 - Spangle Sorbet - t - SH - 3600
+138 - Iris Gelato - t - SH - 3600
+139 - Strawberry Chocolate - t - le Grand - 3195
+140 - Mint Choco-chip - t - SH - 4800
+141 - Angel Frill Skirt - b - SH - 9195
+142 - Citrus Shorts - b - SH - 5295
+143 - Sparkling Capris - b - Edoga - 4890
+144 - Ribbon Cargos - b - SH - 5490
+145 - Flaming Knee-highs - a - SH - 3090
+146 - Cloud Nine Scarf - a - le Grand - 2400
+147 - Lucky Rainbow Bracelets - a - SH - 2970
+148 - Rounded Specs - a - SH - 3459
+149 - Shining Star Dangles - a - KuraKura - 2970
+150 - Princess Ring - a - SH - 5295
+151 - Happy Necklace - a - KuraKura - 3600
+152 - Heart Pochette - a - SH - 6795
+153 - Polka Dot Bag - a - KuraKura - QUEST
+------------------JM-------------------
+154 - Wadatsumi - h - JM - 4500
+155 - Fudo - h - KuraKura - 2790
+156 - Dharma - t - JM - 3795
+157 - Suiten - t - JM - 8400
+158 - Haramitsu - t - JM - 4500
+159 - Amida - t - JM - 23790
+160 - Ashura - t - JM - QUEST
+161 - Brahma - t - JM - 8790
+162 - Komokuten - t - JM - 9795
+163 - Togenkyo - t - JM - QUEST
+164 - Inazuma - b - JM - 7890
+165 - Hannya - b - JM - 10800
+166 - Aun - f - JM - 17790
+167 - Gekirin - f - JM - 13800
+168 - Karma - a - JM - 7890
+169 - Naraka - a - JM - 11100
+------------------PR-------------------
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+
