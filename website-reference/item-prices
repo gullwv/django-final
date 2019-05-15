@@ -241,56 +241,61 @@ THREADS
 218 - 3 MC's 1 DJ - t - 104 - 5700
 219 - Pass the Mic - t - Udagawa - 11550
 220 - Won't Stop - b - Udagawa - 10500
-221
-222
-223
-224
-225
-226
-227
-228
-229
-230
-231
-232
-233
-234
-235
-236
-237
-238
-239
-240
-241
-242
-243
-244
-245
-246
-247
-248
-249
-250
-251
-252
-253
-254
-255
-256
-257
-258
-259
-260
-261
-262
-263
-264
-265
-266
-267
-268
-269
-270
+221 - Don't Stop - b - Udagawa - 12900
+222 - Camouflage - b - 104 - 12200
+223 - Darkness - b - Udagawa - 9900
+224 - Denim Coveralls - tb - Udagawa - 33000
+225 - Work Coveralls - tb - Udagawa - 24000
+226 - Gold Die - a - 104 - 19500
+227 - Wild Boar Pendant - a - 104, Udagawa - 16200
+228 - King Pendant - a - 104 - QUEST
+229 - Skull Deck - a - Udagawa - QUEST
+230 - Camo Deck - a - Udagawa - 9000
+231 - Cat Deck - a - Udagawa - QUEST
+------------------GT-------------------
+232 - TWEWY Promo Coat - t - Shadow Ramen - QUEST
+233 - TWEWY Promo Tee - t - SR - QUEST
+234 - TWEWY Promo Tote - a - SR - QUEST
+235 - Pinky's Lipstick - a - Bel Airplane - QUEST
+236 - Lollipop's Parka - t - Wildkat - QUEST
+237 - Big Guy's Buckle - a - DB 104 - QUEST
+238 - Pi-Face's Cap - h - N/A - Plot Event
+239 - Pi-Face's Coat - t - KuraKura - QUEST
+240 - Pi-Face's Jeans - b - TP - QUEST
+241 - Pi-Face's Bandanna - a - WB 104 - QUEST
+242 - Iron Maiden's One-piece - tb - LA - QUEST
+243 - Shade's Headphones - a - Towa Records - QUEST
+244 - Sis's Pendant - a - SH Molco - QUEST
+245 - Wizard's Glasses - a - N/A - Plot Event
+246 - My Phones - a - N/A - Panthera Cantus
+247 - Your Cap - h - Wildkat - QUEST
+248 - Her Stuffed Animal - a - DB Molco - QUEST
+249 - Angel Feather - a - N/A - Final Time Attack
+---------------UNBRANDED---------------
+# All unbranded items are the ones you pick up on certain days so the format is changing to number/name/part/day/room
+# With the apparent exception of 257, which I didn't even know existed
+# also 258, 262, 265, 268, 270
+250 - Gakuran - tb - W3D4 - Miyashita Underpass
+251 - Sailor Suit - tb - W1D2 - West Exit Bus Terminal
+252 - Boys' Uniform With Blazer - tb - W2D7 - A-East Stage
+253 - Girls' Uniform With Blazer - tb - W3D1 - Hachiko
+254 - Girls' Uniform With Sweater - tb - Another Day - A-East Stage
+255 - Head Honcho - tb - W3D5 - Shibu-Q Heads
+256 - Yukata - tb - W1D3 - Ramen Don
+257 - The Dead Slammurai - tb - Cyco Records - QUEST
+258 - The Black Slammurai - tb - WB Udagawa - QUEST
+259 - Nose Glasses - a - W1D1 - Hachiko
+260 - Samurai Wig - h - W2D4 - Wildkat
+261 - Mr. Mew Suit - tb - W1D7 - Molco Phone Booth
+262 - New Year's Gift - a - MR1 - QUEST
+263 - Pirate Hat - h - W2D3 - A-East Stage
+264 - Potted Plant - a - W2D1 - Hachiko
+265 - Mr. Claus - tb - Nishimura - QUEST
+266 - Mrs . Claus - tb - W1D4 - 104
+267 - Black Book Bag - a - W3D3 - Tipsy Tose
+268 - Red Book Bag - a - WB 104 - QUEST
+269 - Biker Gloves - a - W2D5 - Miyashita Underpass
+270 - Maid Costume - tb - Sunshine Shibukyu - QUEST
 271
 272
 273
