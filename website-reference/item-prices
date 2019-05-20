@@ -3,9 +3,9 @@ KEY
 threads
 item # - item name - item type - shop - price
 food
-item # - name - shop - sync boost
+item # - name - shop - price
 swag
-item # - name - shop
+item # - name - shop - price
 
 THREADS
 
@@ -274,7 +274,7 @@ THREADS
 ---------------UNBRANDED---------------
 # All unbranded items are the ones you pick up on certain days so the format is changing to number/name/part/day/room
 # With the apparent exception of 257, which I didn't even know existed
-# also 258, 262, 265, 268, 270
+# also 258, 262, 265, 268, 270, 274, 275, 276
 250 - Gakuran - tb - W3D4 - Miyashita Underpass
 251 - Sailor Suit - tb - W1D2 - West Exit Bus Terminal
 252 - Boys' Uniform With Blazer - tb - W2D7 - A-East Stage
@@ -296,46 +296,51 @@ THREADS
 268 - Red Book Bag - a - WB 104 - QUEST
 269 - Biker Gloves - a - W2D5 - Miyashita Underpass
 270 - Maid Costume - tb - Sunshine Shibukyu - QUEST
-271
-272
-273
-274
-275
-276
-277
-278
-279
-280
-281
-282
-283
-284
-285
-286
-287
-288
-289
-290
-291
-292
-293
-294
-295
-296
-297
-298
-299
-300
-301
-302
-303
-304
-305
-306
-307
-308
-309
-310
+271 - Supermask's Mask - h - W2D2 - Mexican Dog
+272 - Ninja Grab - tb - W2D6 - Shibu-Q Heads
+273 - Samurai Helm - h - W3D7 - Ramen Don
+274 - Samurai Armor - tb - Shibu-Q 1F - QUEST
+275 - Fan of the Rising Sun - t - Shibu-Q 2F - QUEST
+276 - Samurai Sword - a - Shibu-Q 3F - QUEST
+277 - Solid Slammer - a - W1D6 - Center Street
+278 - False Teeth - a - W3D2 - Cosmic Corner
+279 - Lucky Mallet - W3D6 - Shadow Ramen
+280 - Mr. Ducky - W1D5 - Spain Hill
+
+
+Food
+
+
+281 - Hamburger - Sunshine - 360
+282 - Double Burger - Sunshine - 480
+283 - French Fries - Sunshine - 320
+284 - Hot Dog - Mexican Dog - 460
+285 - Special Dog - Mexican Dog - 630
+286 - Donuts - WildKat - 350
+287 - Muffin Set - WildKat - 400
+288 - Nuggets - Sunshine - 350
+289 - Salad - Sunshine - 420
+290 - The "Tatsumi" Burger - Sunshine - QUEST
+291 - Definitivo Chili Dog - Mexican Dog - QUEST
+292 - Cola - Sunshine, Mexican Dog - 210
+293 - OJ - Sunshine, Mexican Dog - 210
+294 - Coffee - WildKat - 520
+295 - House Blend - WildKat - 680
+296 - Minestrone - Sunshine - 420
+297 - Corn Chowder - Sunshine - Main Store 470, Stationside 750
+298 - Bouillabaisse - WildKat - 580
+299 - Pumpkin Soup - WildKat - 580
+300 - Shoyu Ramen - Ramen Don - 600
+301 - Miso Ramen - Ramen Don - 680
+302 - Shio Ramen - Ramen Don - 580
+303 - Tonkotsu Ramen - Ramen Don - 750
+304 - Shadow Steak Ramen - Shadow Ramen - 5000
+305 - Mystic Ramen - Ramen Don - QUEST
+306 - Absolute Shadow Ramen - Shadow Ramen - QUEST
+307 - Insta-Noodles - Ramen Don - QUEST
+308 - HP Tablets - Herbal Remedies, Shibu-Q 4F - both 10000, HR QUEST
+309 - ATK Capsules - SQ4F - 200000, QUEST
+310 - DEF Medicine - SQ4F - 20000, QUEST
 311
 312
 313
