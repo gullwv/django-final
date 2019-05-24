@@ -1,8 +1,7 @@
-# model ideas
-# by gull
-# 5/7/19
+from django.db import models
 
-#abstract classes
+# Create your models here.
+
 class Commons(models.Model): #abstract base class for all name-description classes
     name = models.CharField(max_length=25)
     desc = models.CharField(max_length=100)
@@ -10,8 +9,7 @@ class Commons(models.Model): #abstract base class for all name-description class
     class Meta:
         abstract = True
 
-#classes
-class UserCust(AbstractBaseUser): #user account
+class UserCust(models.AbstractBaseUser): #user account
     username = models.CharField(max_length=20, unique=True)
     USERNAME_FIELD = 'username'
     password = models.CharField(max_length=16)
@@ -23,7 +21,7 @@ class Place(Commons): #a location
     x = models.PositiveSmallIntegerField()
     y = models.PositiveSmallIntegerField()
     place_type = models.ForeignKey(PlaceType, on_delete=models.CASCADE)
-    items = models.ManyToManyField(Item)
+    items = models.ManyToManyField(Item, unique=True)
     walled = models.BooleanField(default=False) #whether or not a wall is erected
     wall_clearance = models.PositiveSmallIntegerField(default=2) #rank you need to be in order to set up, take down, or pass through a wall at place
 
@@ -56,4 +54,3 @@ class ItemType(Commons):
         default = swag,
     )
     value = models.PositiveSmallIntegerField()
-

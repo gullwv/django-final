@@ -1,0 +1,369 @@
+
+# - name - psych - class
+
+DB
+
+001 - Ice Blow - Piercing Pillar (slash)- A
+002 - Ice Risers - Piercing Pillar (slash)- A
+003 - Frozen Cool - Piercing Pillar (tap)- Reaper
+004 - Blizzard Cool - Piercing Pillar (tap)- Reaper
+005 - Earthshake - Earthquake - B
+006 - Sexy D - Psychokinesis - B
+007 - Sexy + - Psychokinesis - B 
+008 - Sexy B - Psychokinesis - B 
+009 - Straitjacket - Mobility Blight+ - B
+010 - Blown Kiss - Subconscious - Angel
+011 - D+B - Resonance - A
+
+NP
+
+012 - Happy Beam - Energy Rounds - A
+013 - Natural Magnum - Energy Rounds - A
+014 - Wonder Magnum - Energy Rounds - A
+015 - Beauty Launcher - Energy Rounds - A 
+016 - One Love Magnum - Energy Rounds - A
+017 - Hounder Magnum - Energy Rounds - A
+018 - Bear Hug Magnum - Energy Rounds - A
+019 - Sparkle Beam - Energy Rounds - A
+020 - Lil' Terror Bazooka - Energy Rounds - A
+021 - Angel Magnum - Energy Rounds - A
+022 - Cutie Beam - Force Rounds - A
+023 - Lovely Beam - Force Rounds - A
+024 - Sexy Beam - Force Rounds - A
+025 - Superfine Beam - Force Rounds - A
+026 - Playmate Beam - Force Rounds - A
+027 - Purity Launcher - Force Rounds - A
+028 - Innocence Beam - Force Rounds - A
+029 - Pop Pendulum - Patrol Rounds - A
+030 - Casual Pendulum - Patrol Rounds - A
+031 - Love Me Tether - Entanglement - A
+032 - Pamper Me Tether - Entanglement - A 
+033 - Sweet Talk Tether - Entanglement - A
+034 - Natural Puppy - Resonance - A
+
+PR
+
+035 - Frantic - Twister - C
+036 - Blink Step - Invisibility - C
+037 - First Gear - Teleport - C
+038 - Top Gear - Teleport - C
+039 - Egg Bomb - Pressure Mine - B
+040 - Meteor Magnet - Apport - B
+041 - Meteor Hook - Apport - B
+042 - Meteor Spike - Apport - B
+043 - Strong Heart - Life Blight - C
+044 - Strong Spirit - Attack Blight - C
+045 - Strong Body - Defense Blight - C
+046 - Strong 'n Proud - Mobility Blight - B
+047 - Poison Scorpion - Doomed Life - A
+048 - Poison Skull - Doomed Attack - A
+049 - Poison Bones - Doomed Defense - A
+050 - Poison Chains - Doomed Mobility - A
+051 - Rapier Glance - Doomed Attack+ - A
+052 - Love Charge - Cure Boost - Angel
+053 - Guardian Angel - Subconscious - Angel
+054 - Archangel - Subconscious - Angel
+055 - Energy Factor - Turbo Gauge - Angel
+056 - Speed Factor - Turbo Reboot - Angel
+057 - Supply Factor - Supply Boost - A
+058 - Chaos - Doomed Life+ - A
+059 - Pavo Real - Resonance - A
+
+MR
+
+060 - Lightning Moon - Spark Core - A
+061 - Lightning Storm - Spark Core - A
+062 - Burning Cherry - Flame Core - A
+063 - Burning Melon - Flame Core - A
+064 - Burning Berry - Flame Core - A
+065 - Aqua Monster - Splash Core - B
+066 - Aqua Ghost - Splash Core - B
+067 - Aqua Demon - Splash Core - B
+068 - Cornered Rat - Holy Light - B
+069 - Blast Warning - Pyrokinesis - A
+070 - Candle Service - Explosion - A
+071 - Shock Warning - Shockwave - A
+072 - Kinetic Warning - Psychokinesis - C
+073 - Impact Warning - Apport - B
+074 - Storm Warning - Thunderbolt - C
+075 - Electric Warning - Lightning Arrester - B
+076 - Teleport Warning - Invisibility - C
+077 - Shout - Street Jam - A
+078 - Psych Support - Supply Boost+ - A
+079 - Stopper Spark - Doomed Mobility+ - A
+080 - Mus Rattus - Resonance - A
+
+JM
+
+081 - Masamune - Shockwave - A
+082 - Onikiri - Shockwave - A
+083 - Nenekiri - Shockwave - A 
+084 - Kanesada - Shockwave - A
+085 - Enju - Shockwave - A
+086 - Yoshimitsu - Shockwave - A
+087 - Ichimonji - Lance Lunge - B
+088 - Nikkari - Lance Lunge - B 
+089 - Mikazuki - Lance Lunge - B
+090 - Shiro - Lance Lunge - B
+091 - Unjo - Stellar Flurry - B
+092 - Izanagi - Stellar Flurry - B
+093 - Murasame - Vulcan Uppercut - A
+094 - Rakuyo - Vulkan Uppercut - A
+095 - Kusanagi - Vulkan Uppercut - A
+096 - Ohabari - Grave Marker - A
+097 - Zantetsu - Spear Strike - B
+098 - Mitama - Vortex Saber - B
+099 - Izanami - Pyrokinesis - A
+100 - Onmyo - Street Jam - A
+101 - Konohana - Cure Drink - A
+102 - Konohana Sakuya - Healing - A
+103 - Jupiter of the Monkey - Resonance - A
+
+HS
+
+104 - Long Live the Rock - Rock Bind - C
+105 - Long Live the Ice - Freeze - B
+106 - Long Live the Floe - Freeze - B
+107 - Eyes Full of Hope - Holy Light - B
+108 - Eyes Full of Light - Holy Light - B
+109 - Hot Gaze - Ignition - C
+110 - Sizzling Gaze - Ignition - C
+111 - Cold Stare - Frostbite - B
+112 - Icy Stare - Frostbite - B
+113 - Wassup Thunder! - Thunderstorm - B
+114 - Wassup Lightning! - Thunderstorm - B
+115 - Wassup Voltage! - Thunderstorm - B
+116 - Indestructo Man - Life Blight+ - A
+117 - Hip Snake - Resonance - A
+
+SH
+
+118 - Octo Squeeze - Sweeper - Reaper
+119 - Snail Squeeze - Sweeper - Reaper
+120 - Vacu Squeeze - Sweeper - Reaper
+121 - Gimme Dat Sheep - Black Hole - Reaper
+122 - Gimme Dat Elephant - Black Hole - Reaper
+123 - Gimme Dat Hippo - Black Hole - Reaper
+124 - Crackle Pop Barrier - Fire Barrier - A
+125 - Splish Splash Barrier - Aqua Barrier - A
+126 - Creepy Weepy Barrier - Dark Barrier - A
+127 - Whirlygig Juggle - Teleport - C
+128 - Healing Bunny - Cure Drink - A
+129 - Healing Flamingo - Cure Drink - A
+130 - Healing Whale - Cure Drink - A
+131 - Croc Leisure - Healing - A
+132 - Monkey Leisure - Healing - A
+133 - Bear Leisure - Healing - A
+134 - Squirrel Leisure - Healing - A
+135 - Sparkle Charge - Cure Boost+ - Angel
+136 - Handsfree Healing - Subconscious - Angel
+137 - Sheep Heavenly - Resonance - A
+
+TP
+
+138 - Distortion - Discharge - B
+139 - Velocity Attack - Velocity Attack - A
+140 - Velocity Tackle - Velocity Crash - A
+141 - Demon's Hatred - Explosion - A
+142 - Go 2 Hell - Spear Strike - B
+143 - Go 2 Heaven - Spear Strike - B
+144 - Lightning Anger - Vortex Saber - B
+145 - Lightning Rage - Vortex Saber - B
+146 - LIVE! - Street Jam - A
+147 - Peace Full - Cure Drink - A
+148 - Thanx - Healing - A
+149 - D.I.Y. - Attack Blight+ - A
+150 - Tigre Punks - Resonance - A
+
+DC
+
+151 - One Stone, Many Birds - Burst Rounds - B
+152 - One Stroke, Vast Wealth - Burst Rounds - B
+153 - One Grain, Infinite Promise - Burst Rounds - B
+154 - Self Found, Others Lost - Discharge - B
+155 - Fiery Spirit, Spirited Fire - Pyrokinesis - A
+156 - Flames Afar, Foes Aflame - Pyrokinesis - A
+157 - Final Pyre, All Expired - Pyrokinesis - A
+158 - Blue Blood Burns Blue - Flame Blast - B
+159 - Live Slow, Die Fast - Psychokinesis - B
+160 - Local Fire, Distant Sea - Psychokinesis - B
+161 - June Hearth, January Fan - Psychokinesis - B
+162 - Swift Storm, Swift End - Thundercloud - B
+163 - Black Sky, White Bolt - Thundercloud - B
+164 - Follow Suit, Fall In Turn - Thundercloud - B
+165 - Dragon Couture - Resonance - A
+
+LA
+
+166 - Lolita Bat - Force Rounds - A
+167 - Skull Rabbit - Force Rounds - A
+168 - Kaleidoscope - Burst Rounds - B
+169 - Lolita Emblem - Stellar Flurry - B
+170 - Lolita Chopper - Stellar Flurry - B
+171 - Link Spider - Thunderbolt - C
+172 - Web Spider - Thunderbolt - C
+173 - Network Spider - Thunderbolt - C
+174 - Lolita Mic - Street Jam - A
+175 - Spider's Silk - Apport - B
+176 - Leopard - Cure Drink - A
+177 - Lolita Skull - Healing - A
+178 - Black Rose - Doomed Defense+ - A
+179 - Lapin Angelique - Resonance - A
+
+PG
+
+180 - Thunder Pawn - Spark Core - A
+181 - Lightning Pawn - Spark Core - A
+182 - Aqua Pawn - Splash Core - B
+183 - Swing Bishop - Patrol Rounds - A
+184 - Pegaso Bishop - Patrol Rounds - A
+185 - King Arthur - Lightning Bolt - A
+186 - Excalibur - Lightning Bolt - A
+187 - Thunder Rook - Lightning Arrester - B
+188 - Lightning Rook - Lightning Arrester - B
+189 - Jack's Knight - Psychokinesis - C
+190 - King's Knight - Psychokinesis - C
+191 - Queen's Knight - Psychokinesis - C
+192 - Her Royal Highnes - Turbo Gauge+ - Angel
+193 - Pegaso - Resonance - A
+
+WB
+
+194 - Lazy Bomber - Time Bomb - A
+195 - Flower of Flame - Explosion - A
+196 - Flower of Fire - Explosion - A
+197 - Kewl Line - Massive Hit - B
+198 - Dope Line - Massive Hit - B
+199 - Wild Line - Massive Hit - B
+200 - Fly Line - Grave Marker - A
+201 - Fresh Line - Grave Marker- A
+202 - Microcosmic Pull - Apport - B
+203 - Cosmic Pull - Apport - B
+204 - Macrocosmic Pull - Apport - B
+205 - Diss - Defense Blight+ - A
+206 - Wild Boar - Resonance - A
+
+GT
+
+207 - Big Bang - Nexus Ray - B
+208 - Big Crunch -  Nexus Ray - B
+209 - Swift as the Wind - Irregular Note - none
+210 - Hushed as the Wood - Irregular Note - none
+211 - Fierce as the Flame - Irregular Note - none
+212 - Stalwart as the Mount - Irregular Note - none
+213 - Black Mars - Pyrokinesis - A
+214 - Black Jupiter - Lightning Bolt - A
+215 - Black Uranus - Piercing Pillar (slash)- A
+216 - Black Venus - Force Rounds - A
+217 - Black Saturn - Dark Barrier - A
+218 - Black Mercury - Splash Core - A
+219 - Righty Cat - Over the Top RH - A
+220 - Brainy Cat - Over the Top BR - A
+221 - Lefty Cat - Over the Top LH - A
+222 - One Jump From Eden - Holy Field I - none
+223 - One Skip From Eden - Holy Field II - none
+224 - One Hop From Eden - Holy Field III - none
+225 - One Step From Eden - Holy Field IV - none
+226 - Eden's Door - Holy Field V - none
+227 - Visionary Blend - Subconscious - Angel
+228 - Red Skull - Crawler - A
+229 - Gatito - Resonance - A
+
+Unbranded
+
+230 - Tin Pin Fire - Ignition - C
+231 - Tin Pin Custom - Burst Rounds - B
+232 - Tin Pin Wind - Patrol Rounds - A
+233 - Tin Pin Blade - Vortex Saber - B
+234 - Tin Pin Wheel - Velocity Attack - A
+235 - Tin Pin Dash - Velocity Crash - A
+236 - Tin Pin Thrift - Sacrifice - A
+237 - Tin Pin Hellfire - Flame Core - A
+238 - Tin Pin Sunscorch - Flame Blast - B
+239 - Tin Pin Rocker - Street Jam - A
+240 - Tin Pin Artist - Lightning Bolt - A
+241 - Tin Pin Devil - Thunderstorm - B
+242 - Tin Pin Ifrit - Time Bomb - A
+243 - Tin Pin Shiva - Piercing Pillar (tap)- Reaper
+244 - Tin Pin Golem - Earthquake - B
+245 - Tin Pin Bahamut - Nexus Ray - Reaper
+246 - 1 Yen - none - none
+247 - 5 Yen - none - none
+248 - 10 Yen - none - none
+249 - 50 Yen - none - none
+250 - 100 Yen - none - none
+251 - 500 Yen - none - none
+252 - 1000 Yen - none - none
+253 - 5000 Yen - none - none
+254 - 10000 Yen - none - none
+255 - 100000 Yen - none - none
+256 - Scarletite - none - none
+257 - Rare Metal
+258 - Tektite
+259 - Adamantite
+260 - Orichalcum
+261 - Shadow Matter
+262 - Dark Matter
+263 - Rhyme - Summon Rhyme - none
+264 - Lucky Star - Mother Lode - C
+265 - Lady Luck - Mother Lode - C
+266 - Lucky Panda - Mother Lode - C
+267 - Pyrokinesis - Pyrokinesis - A
+268 - Shockwave - Shockwave - A
+269 - Cure Drink - Cure Drink - A
+270 - Force Rounds - Force Rounds - A
+271 - Psychokinesis - Psychokinesis - C
+272 - Thunderbolt - Thunderbolt - C
+273 - The Eyes Have It - Frostbite - B
+274 - I Live For Food - Cure Drink - A
+275 - Walk On, Walk Off - Invisibility - C
+276 - Me Time Is Free Time - Sweeper - Reaper
+277 - Fuji Yama - Discharge - B
+278 - Daruma - Apport - B
+279 - Sushi - Stellar Flurry - B
+280 - Shinobi - Energy Rounds - A
+281 - Tigris - Piercing Pillar (tap)- Reaper
+282 - Corehog - Burst Rounds - Angel
+283 - Jelly - Discharge - Reaper
+284 - Shark - Black Hole - Reaper
+285 - Leo - Teleport - Reaper
+286 - Ovis - Thunderbolt - Reaper
+287 - Cornix - Apport - Angel
+288 - Popguin - Force Rounds - Angel
+289 - Pteropus - Patrol Rounds - Angel
+290 - Mink - Twister - Reaper
+291 - Boomer - Grave Marker - Angel
+292 - Sprog - Freeze - Reaper
+293 - Fox - Flame Core - Angel
+294 - Bat - Patrol Rounds - Angel
+295 - Rhino - Massive Hit - Reaper
+296 - Shrew - Time Bomb - Reaper
+297 - Woolly - Earthquake - Reaper
+298 - Raven - Psychokinesis - Reaper
+299 - Drake - Flame Blast - Angel
+300 - Anguis - Nexus Ray - Reaper
+301 - Pig - Grandmother Lode - Reaper
+302 - Carcin - Fire Barrier - Reaper
+303 - Grizzly - Street Jam - Reaper
+304 - Wolf - Velocity Attack - Angel
+305 - Frog - Splash Core - Angel
+306 - Green Dragon - Pyrokinesis - A
+Note: 306 also generates a fire tornado
+307 - Vinyl Record - Vortex Saber - B - electric shockwave
+308 - Downhill Buffalo - Energy Rounds - A - triple fire column
+309 - Hermit Crab Feather - Velocity Charge - A
+310 - Great Physical Power - Piercing Pillar (slash)- A - uses swords
+311 - Dove Actually - Force Rounds - A - can change direction
+312 - Zipzap Zipper - Entanglement - A - freezes
+313 - Unfortune Teller - Bullet Sword - A
+314 - Brain Beam - Laser Blast - A - burns
+315 - WITCHCRAFT - Grave Marker - A - burns
+316 - METTAZASHI - Shockwave - A - burns
+317 - KATON NO JUTSU - Vulcan Uppercut - A - burns
+Note: 315-317 work similarly to Darklit Planets
+318 - Rakshasa the Tyrant - Burst Sword - A
+319 - PRW-02SR - Splash Core - B - electric, not water
+320 - Papillon Rogue - Entanglement - A - restores HP with damage
+321 - Rubellite - none - none
+322 - Morganite - none - none
+323 - Taaffeite - none - none

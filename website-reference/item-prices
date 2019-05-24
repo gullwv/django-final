@@ -9,6 +9,8 @@ item # - name - shop - price
 
 THREADS
 
+QUEST
+
 ------------------MR-------------------
 001 - M Cap - headwear - MR 1, 3, 4, SQ1F - 210
 002 - Yellow Tee - top - MR 2, 4, SQ1F - 390
@@ -81,7 +83,7 @@ THREADS
 066 - Spiderweb Jersey - t - 16590
 067 - Bunny Parka - t - 14490
 068 - Shirt & Arm Warmers - t - 9240
-069 - Bondage Pants - b - 17640
+069 - Bandage Pants - b - 17640
 070 - Red Two-tier Skirt - b - 17630
 071 - Double-breasted Suit - tb - 30000
 072 - Lace-up Dress - tb - 19740
@@ -365,3 +367,75 @@ Swag
 342 through 375 (going by the first game track list) - see wiki swag list page
 376 through 417 - NULL
 418 through 472 - see book ref sheet
+
+
+
+QUEST req's
+
+029 - 3 Rare Metal, 1 Durable Leather, 1 Plaid Miniskirt
+034 - 5 Rare Metal, 1 Pretty Ribbon, 1 Purple Bikini
+036 - 3 Adamantite, 2 Stunning Crystals, 1 Cowboy Boots
+037 - 3 Rare Metal, 1 Durable Leather, 1 Cotton Biker Vest
+038 - 5 Tektite, 2 Durable Leather, 1 Biker Jacket
+064 - 2 Tektite, 1 Sleek Silk, 1 Vampire Dress
+073 - 5 Rare Metal, 1 Durable Leather, 1 Shirt & Arm Warmers
+088 - 3 Tektite, 1 Sleek Silk, 1 Vernal Equinox
+092 - 2 Rare Metal, 1 Durable Leather, 1 Typhoon
+098 - 6 Rare Metal, 1 Durable Leather, 1 Zephyr's Elegy
+110 - 6 Rare Metal, 1 Colorful Thread, 1 Love in a Heartbeat
+121 - 2 Durable Leather, 10 5000 Yen, 8 10000 Yen
+122 - 2 Durable Leather, 20 1000 Yen, 2 10000 Yen
+124 - 1 Silver Baron, 1 Tin Pin Golem
+125 - 8 Adamantite - 2 Sparkling Silver, 1 Silver Baron
+126 - 9 Durable Leather, 10 10000 Yen, 10 5000 Yen
+129 - 6 Rare Metal, 2 Colorful Thread, 1 Green With Envy
+132 - 3 Rare Metal, 1 Sleek Silk, 1 Mint Choco-chip
+153 - 6 Rare Metal, 1 Cozy Down, 1 Heart Pochette
+160 - 8 Rare Metal, 1 Fluffy Cotton, 1 Amida
+163 - 3 Rare Metal, 1 Fluffy Cotton, 1 Haramitsu
+172 - 3 Tektite, 1 Stunning Crystals, 1 Turquoise Necklace
+180 - 3 Adamantite, 3 Stunning Crystals, 1 Chandelier Dangles
+181 - 3 Rare Metal, 1 Stunning Crystals, 1 Chandelier Dangles
+196 - 3 Tektite, 1 Durable Leather, 1 Brown Jeans
+199 - 3 Tektite, 2 Colorful Thread, 1 Lovely One-piece
+228 - 6 Rare Metal, 3 Sparkling Silver, 1 Wild Boar Pendant
+229 - 5 Rare Metal, 3 Sparkling Silver, 1 Camo Deck
+231 - 3 Adamantite, 2 Sparkling Silver, 1 Skull Deck
+232 - 3 Dark Matter, 3 Durable Leather, 1 Regal Presence
+233 - 12 Shadow Matter, 3 Sleek Silk, 1 Tweed Gentleman
+234 - 3 Dark Matter, 3 Colorful Thread, 1 Sparkling Flight
+235 - 8 Adamantite, 4 Stunning Crystals, 1 Heart Nails
+236 - 8 Adamantite, 4 Cozy Down, 1 Ashura
+237 - 6 Shadow Matter, 4 Sparkling Silver, 1 Studded Belt
+239 - 6 Shadow Matter, 3 Durable Leather, 1 Goth Bondage Coat
+240 - 3 Orichalcum, 3 Durable Leather, 1 Skirt Bondage Combo
+241 - 6 Shadow Matter, 3 Sleek Silk, 1 Slogan Bandannas
+242 - 6 Shadow Matter, 4 Pretty Ribbon, 1 My Favorite One-piece
+243 - 3 Orichalcum, 3 Stunning Crystals, 1 Funky Shades
+244 - 3 Orichalcum, 4 Sparkling Silver, 1 Skull Pendant
+247 - 3 Orichalcum, 3 Fluffy Cotton, 1 Chicago
+248 - 3 Orichalcum, 9 Fluffy Cotton, 1 M'sieur Lapin
+257 - 1 Tin Pin Sunscorch, 1 Me Time Is Free Time, 1 Shadow Matter
+258 - 1 Tin Pin Devil, 1 Tin Pin Shiva, 1 I Live For Food
+262 - 1 Tin Pin Thrift, 1 Tin Pin Dash, 1 Ovis
+265 - 1 Tin Pin Wheel, 1 Tin Pin Artist, 1 Shadow Matter
+268 - 1 Tin Pin Wind, 1 Tin Pin Blade, 1 Walk On, Walk Off
+270 - 1 King Arthur, 1 The Eyes Have It, 1 Shadow Matter
+274 - 1 Lady Luck, 1 Tigris, 1 Mink
+275 - 1 Lucky Panda, 1 Anguis, 1 Pteropus
+276 - 1 Lucky Star, 1 Leo, 1 Cornix
+290 (main store) - 1 Rare Metal, 1 Red Viper, 3 Sweet, Sweet Onions
+290 (stationside) - 3 Rare Metal, 1 Red Viper, 1 Sweet, Sweet Onions
+291 - 3 Rare Metal, 1 Choice Meat, 1 Crimson Chili
+305 - 3 Tektite, 1 Jumbo Chicken, 1 Extra Fine Noodles
+306 - 1 Dark Matter, 1 Mystery Liquid, 1 Extra Fine Noodles
+307 - 1 100 Yen
+308 - 3 Tektite, 9 50 Yen
+309 - 10 Tektite, 5 50 Yen
+310 - 3 Tektite, 9 50 Yen
+311 - 3 Tektite, 9 50 Yen
+313 - 15 10000 Yen
+315 - 3 Adamantite, 1 Mystery Liquid, 1 Red Viper
+317 - 3 Adamantite, 1 Mystery Liquid, 1 Swallow's Nest
+340 - 8 Rare Metal
+341 - 3 Orichalcum, 1 Dark Matter
