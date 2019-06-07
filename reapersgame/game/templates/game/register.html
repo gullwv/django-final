@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'game/home_style.css' %}">
+<span class="flex-box">
+<table>
+    <tr>
+        <td>
+            <h1>Register</h1>
+            <form action="/register/" method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <input type="submit" value="Register">
+            </form>
+        </td>
+    </tr>
+</table>
+</span>

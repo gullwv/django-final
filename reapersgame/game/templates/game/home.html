@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'game/home_style.css' %}">
+<span class="flex-box">
+<table>
+<tr>
+    <td>
+        <a class="signup home" href="{% url 'register' %}"><img src="{% static 'game/usr_signup.png' %}" title='Register'></a>
+        <h3>Register</h3>
+    </td>
+    <td>
+
+    </td>
+    <td>
+        <a class="login home" href=""><img src="{% static 'game/usr_login.png' %}" title='Login'></a>
+        <h3>Login</h3>
+    </td>
+</tr>
+</table>
+</span>
